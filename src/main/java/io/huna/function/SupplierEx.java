@@ -1,4 +1,4 @@
-package io.huna.lambda;
+package io.huna.function;
 
 import java.util.ArrayList;
 import java.util.List;
