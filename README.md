@@ -14,3 +14,6 @@
   
 ### Design Patterns
   - [ ] Singleton
+  
+# License
+- There is no license :-)
