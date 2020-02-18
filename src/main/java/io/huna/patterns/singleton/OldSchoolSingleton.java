@@ -9,24 +9,14 @@ import lombok.ToString;
 public class OldSchoolSingleton {
 
     private static OldSchoolSingleton INSTANCE;
-    private boolean isOldSchool;
 
-    private OldSchoolSingleton() {
-        isOldSchool = true;
-    }
+    private OldSchoolSingleton() { }
 
     public static OldSchoolSingleton getInstance() {
         if (INSTANCE == null) {
+            // <<- Here!! It could make more instances here!
             INSTANCE = new OldSchoolSingleton();
         }
         return INSTANCE;
-    }
-
-    public boolean isOldSchool() {
-        return isOldSchool;
-    }
-
-    public void dressUp() {
-        isOldSchool = false;
     }
 }
