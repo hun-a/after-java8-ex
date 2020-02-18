@@ -2,9 +2,13 @@
 - ... now? :)
 
 # TODO
-- [ ] Lambda
-- [ ] Stream
-- [ ] Parallel Processing
-- [ ] Optional
-- [ ] New Date API
-- [ ] Default Method
+- Features of Java
+  - [x] Lambda
+  - [ ] Stream
+  - [ ] Parallel Processing
+  - [ ] Optional
+  - [ ] New Date API
+  - [ ] Default Method
+  
+- Design Patterns
+  - [ ] Singleton
