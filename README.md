@@ -13,7 +13,8 @@
   - [ ] Default Method
   
 ### Design Patterns
-  - [ ] Singleton
+  - [x] Singleton
+    - [ ] test
   
 # License
 - There is no license :-)
