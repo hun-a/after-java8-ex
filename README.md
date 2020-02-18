@@ -1,8 +1,10 @@
-# Happy coding with Java 8 and above version
-- ... now? :)
+# Happy coding with Java
+- Enjoy coding with Java
+- Improve your coding skill with Java
+- Make awesome things with Java
 
 # TODO
-- Features of Java
+### Features of Java
   - [x] Lambda
   - [ ] Stream
   - [ ] Parallel Processing
@@ -10,5 +12,5 @@
   - [ ] New Date API
   - [ ] Default Method
   
-- Design Patterns
+### Design Patterns
   - [ ] Singleton
