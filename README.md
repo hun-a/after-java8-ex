@@ -5,7 +5,8 @@
 
 # TODO
 ### Features of Java
-  - [x] Lambda
+  - [x] [Lambda](src/main/java/io/huna/lambda/)
+  - [x] [Functional Interface](src/main/java/io/huna/function/)
   - [ ] Stream
   - [ ] Parallel Processing
   - [ ] Optional
@@ -13,8 +14,8 @@
   - [ ] Default Method
   
 ### Design Patterns
-  - [x] Singleton
-  - [X] Strategy
+  - [x] [Singleton](src/main/java/io/huna/patterns/singleton/)
+  - [X] [Strategy](src/main/java/io/huna/patterns/strategy)
   
 # License
 - There is no license :-)
