@@ -14,8 +14,7 @@
   
 ### Design Patterns
   - [x] Singleton
-    - [ ] test
-  - [ ] Strategy
+  - [X] Strategy
   
 # License
 - There is no license :-)
