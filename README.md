@@ -16,7 +16,7 @@
 ### Design Patterns
   - [x] [Singleton](src/main/java/io/huna/patterns/singleton/)
   - [X] [Strategy](src/main/java/io/huna/patterns/strategy)
-  - [ ] [Observer](src/main/java/io/huna/patterns/observer)
+  - [x] [Observer](src/main/java/io/huna/patterns/observer)
   
 # License
 - There is no license :-)
