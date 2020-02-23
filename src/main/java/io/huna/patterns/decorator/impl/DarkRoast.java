@@ -4,8 +4,6 @@ import io.huna.patterns.decorator.Beverage;
 
 public class DarkRoast extends Beverage {
 
-    private String description;
-
     public DarkRoast() {
         description = "Dark roast";
     }

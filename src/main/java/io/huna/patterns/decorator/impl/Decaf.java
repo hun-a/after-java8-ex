@@ -4,10 +4,8 @@ import io.huna.patterns.decorator.Beverage;
 
 public class Decaf extends Beverage {
 
-    private String message;
-
     public Decaf() {
-        message = "Decaf";
+        description = "Decaf";
     }
 
     @Override

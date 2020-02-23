@@ -4,8 +4,6 @@ import io.huna.patterns.decorator.Beverage;
 
 public class Espresso extends Beverage {
 
-    private String description;
-
     public Espresso() {
         description = "Espresso";
     }
