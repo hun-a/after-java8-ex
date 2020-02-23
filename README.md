@@ -17,6 +17,7 @@
   - [x] [Singleton](src/main/java/io/huna/patterns/singleton/)
   - [X] [Strategy](src/main/java/io/huna/patterns/strategy)
   - [x] [Observer](src/main/java/io/huna/patterns/observer)
+  - [ ] [Decorator](src/main/java/io/huna/patterns/decorator)
   
 # License
 - There is no license :-)
