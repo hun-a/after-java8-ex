@@ -19,6 +19,7 @@
   - [x] [Observer](src/main/java/io/huna/patterns/observer)
   - [x] [Decorator](src/main/java/io/huna/patterns/decorator)
   - [ ] [Factory](src/main/java/io/huna/patterns/factory)
+    - [x] [Factory Method](src/main/java/io/huna/patterns/factory/method)
   
 # License
 - There is no license :-)
