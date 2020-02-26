@@ -18,6 +18,7 @@
   - [X] [Strategy](src/main/java/io/huna/patterns/strategy)
   - [x] [Observer](src/main/java/io/huna/patterns/observer)
   - [x] [Decorator](src/main/java/io/huna/patterns/decorator)
+  - [ ] [Factory](src/main/java/io/huna/patterns/factory)
   
 # License
 - There is no license :-)
