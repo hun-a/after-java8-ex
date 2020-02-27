@@ -18,8 +18,9 @@
   - [X] [Strategy](src/main/java/io/huna/patterns/strategy)
   - [x] [Observer](src/main/java/io/huna/patterns/observer)
   - [x] [Decorator](src/main/java/io/huna/patterns/decorator)
-  - [ ] [Factory](src/main/java/io/huna/patterns/factory)
+  - [x] [Factory](src/main/java/io/huna/patterns/factory)
     - [x] [Factory Method](src/main/java/io/huna/patterns/factory/method)
+    - [x] [Abstract Factory](src/main/java/io/huna/patterns/factory/abstractfactory)
   
 # License
 - There is no license :-)
