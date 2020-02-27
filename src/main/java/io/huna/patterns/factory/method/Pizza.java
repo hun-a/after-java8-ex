@@ -1,4 +1,4 @@
-package io.huna.patterns.factory;
+package io.huna.patterns.factory.method;
 
 import java.util.ArrayList;
 import java.util.List;

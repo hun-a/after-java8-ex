@@ -1,7 +1,5 @@
 package io.huna.patterns.factory.method;
 
-import io.huna.patterns.factory.Pizza;
-
 public abstract class PizzaStore {
 
     public Pizza orderPizza(String type) {
