@@ -5,8 +5,8 @@
 
 # TODO
 ### Features of Java
-  - [x] [Lambda](src/main/java/io/huna/lambda/)
-  - [x] [Functional Interface](src/main/java/io/huna/function/)
+  - [x] [Lambda](src/main/java/io/huna/lambda)
+  - [x] [Functional Interface](src/main/java/io/huna/function)
   - [ ] Stream
   - [ ] Parallel Processing
   - [ ] Optional
