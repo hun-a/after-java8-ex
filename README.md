@@ -7,7 +7,7 @@
 ### Features of Java
   - [x] [Lambda](src/main/java/io/huna/lambda)
   - [x] [Functional Interface](src/main/java/io/huna/function)
-  - [ ] Stream
+  - [ ] [Stream](src/main/java/io/huna/stream)
   - [ ] Parallel Processing
   - [ ] Optional
   - [ ] New Date API
