@@ -12,9 +12,7 @@ public class FlatMapEx {
                 Arrays.asList("I", "J", "K", "L")
         );
 
-        list.forEach(System.out::println);
-
-        System.out.println();
+        System.out.println(list);
 
         list.stream()
                 .flatMap(List::stream)
