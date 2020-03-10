@@ -15,4 +15,8 @@ public class Utils {
         System.out.println(message);
         printList(list);
     }
+
+    public static <T> void print(T t) {
+        System.out.print(t + " ");
+    }
 }
