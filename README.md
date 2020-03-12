@@ -21,7 +21,7 @@
   - [x] [Factory](src/main/java/io/huna/patterns/factory)
     - [x] [Factory Method](src/main/java/io/huna/patterns/factory/method)
     - [x] [Abstract Factory](src/main/java/io/huna/patterns/factory/abstractfactory)
-  - [ ] [Command](src/main/java/io/huna/patterns/command)
+  - [x] [Command](src/main/java/io/huna/patterns/command)
   
 # License
 - There is no license :-)
