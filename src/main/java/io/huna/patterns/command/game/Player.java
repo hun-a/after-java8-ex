@@ -1,4 +1,4 @@
-package io.huna.patterns.command;
+package io.huna.patterns.command.game;
 
 public class Player {
     private Potion potion;

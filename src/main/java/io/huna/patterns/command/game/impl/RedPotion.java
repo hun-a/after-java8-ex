@@ -1,6 +1,6 @@
-package io.huna.patterns.command.impl;
+package io.huna.patterns.command.game.impl;
 
-import io.huna.patterns.command.Potion;
+import io.huna.patterns.command.game.Potion;
 
 public class RedPotion implements Potion {
 

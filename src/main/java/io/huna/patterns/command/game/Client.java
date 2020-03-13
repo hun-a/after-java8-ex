@@ -1,7 +1,7 @@
-package io.huna.patterns.command;
+package io.huna.patterns.command.game;
 
-import io.huna.patterns.command.impl.BluePotion;
-import io.huna.patterns.command.impl.RedPotion;
+import io.huna.patterns.command.game.impl.BluePotion;
+import io.huna.patterns.command.game.impl.RedPotion;
 
 public class Client {
 
