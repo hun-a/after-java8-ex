@@ -1,13 +1,15 @@
-package io.huna.patterns.command.control;
+package io.huna.patterns.command.control.invoker;
+
+import io.huna.patterns.command.control.Command;
 
 /**
  * The invoker
  */
-public class SImpleRemoteControl {
+public class SimpleRemoteControl {
 
     Command slot;
 
-    public SImpleRemoteControl() {}
+    public SimpleRemoteControl() {}
 
     public void setCommand(Command command) {
         slot = command;
