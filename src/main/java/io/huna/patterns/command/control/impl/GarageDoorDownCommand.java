@@ -16,4 +16,9 @@ public class GarageDoorDownCommand implements Command {
         door.lightOn();
         door.up();
     }
+
+    @Override
+    public void undo() {
+
+    }
 }

@@ -15,4 +15,9 @@ public class GarageDoorUpCommand implements Command {
     public void execute() {
         door.up();
     }
+
+    @Override
+    public void undo() {
+
+    }
 }
